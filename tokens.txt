@@ -1,1 +1,1 @@
-replace with your discord bot tokens
+token
